@@ -1,0 +1,3 @@
+SELECT * from ts;
+
+SELECT * from ts LIMIT 10
